@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <br>
   
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+  <br>
+  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
   <br>
@@ -49,7 +53,7 @@ Here are some ideas to get you started:
 
 <h2 align=center> 🧐 I’m studying</h2>
 <div align=center>
- <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+ 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white">
 </div>
 <br><br>
