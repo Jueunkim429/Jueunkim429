@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=75BDE0&height=300&section=header&text=Jueun%20Kim&fontSize=90)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=8FAADC&height=250&fontAlign=70&fontAlignY=45&text=Jueun%20Kim&fontSize=90&fontColor=ffffffff)
 
 <h2 align=center> 🛠STACKS</h2>
 <div align=center> 
