@@ -44,21 +44,6 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-<h2 align=center> 🐱 My Github Stats</h2>
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=Jueunkim429&show_icons=true&count_private=true width="49%" /> 
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=Jueunkim429 width="49%" />
-</p>
-<br><br>
-
-<h2 align=center> 🧐 I’m studying</h2>
-<div align=center>
- 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white">
-</div>
-<br><br>
-<h2 align=center> 🙋‍ I’m interested in</h2>
-<div align=center>
 
 </div>
 
