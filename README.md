@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   - Top 5
   - 자전거로 직접 공기의 질을 측정하고, 이를 웹페이지에서 확인할 수 있는 서비스 <b>[Airflow](https://airflow-ericssonlg.netlify.app/)</b>
   - React
-<br><br>
+
 #### - 2022
 - 제1회 신한금융그룹 빅데이터 해커톤, 신한카드 신사업아이디어 부문 (2022.09.16 ~ 2022.10.07) <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   - 우승
