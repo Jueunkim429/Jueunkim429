@@ -37,9 +37,6 @@ Here are some ideas to get you started:
   - Top 5
   - 자전거로 직접 공기의 질을 측정하고, 이를 웹페이지에서 확인할 수 있는 서비스 <b>[Airflow](https://airflow-ericssonlg.netlify.app/)</b>
 
-- SPARCS 2023 StartUp Hackathon (2023.01.06 ~ 2023.01.29) <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
-  - AI 창작품의 생성 및 관리를 도와주고, 창작품을 공유하는 SNS형 커뮤니티 플랫폼 <b>[stARTAI](https://github.com/SPARCS-2023-StartUp-Hackathon-3/team-T-repo)</b>
-
 #### - 2022
 - 제1회 신한금융그룹 빅데이터 해커톤, 신한카드 신사업아이디어 부문 (2022.09.16 ~ 2022.10.07) <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=white">
   - 우승
