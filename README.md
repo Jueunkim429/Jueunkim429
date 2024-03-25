@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## 😺 My Git 
 <p align="center">
-  <img src=https://streak-stats.demolab.com?user=Jueunkim429 /> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jueunkim429" alt="GitHub Streak" /></a>
 </p>
 
 
