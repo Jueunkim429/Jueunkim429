@@ -4,7 +4,7 @@
 
 ## 🏫 Major
 - IT Engineering 
-- AI·IOT Engineering
+- AI·IoT Engineering
 <br><br>
 
 ## 🤓 Education
