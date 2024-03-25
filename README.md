@@ -52,8 +52,9 @@ Here are some ideas to get you started:
   - 자기주도진로설계 프로젝트 우수상, 2022 Fly to the Startup 모의투자 2위
   - 공동구매 진행 시 플랫폼이 흩어져서 발생한 문제를 해결하고자 이를 하나로 모아주는, 단일 웹 <b>[공구대학교](https://csscwave.netlify.app/)</b>
 
+<br/>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jueunkim429&hide=jupyter%20notebook&layout=compact)
 
 
 
